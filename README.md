@@ -6,7 +6,7 @@
 
 <h2>Objetivo</h2>
 
-<p>O objetivo é se desafiar e tentar criar um projeto do zero e sozinho, apenas com os conhecimentos adiquirido no curso</p>
+<p>O objetivo é se desafiar e tentar criar um projeto do zero e sozinho, apenas com os conhecimentos adquirido no curso</p>
 
 <h2>Oque eu usei</2>
 
