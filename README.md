@@ -2,11 +2,11 @@
 
 <h2>Sobre o projeto</h2>
 
-<p>Esse projeto foi desenvolvido como desafio do curso de HTML e CSS para projetos web da Alura. O Alura Plus é uma plataforma de stream de cursos tech e idiomas.</p>
+<p>Esse projeto foi desenvolvido como desafio da formação de HTML e CSS para projetos web da Alura. O Alura Plus é uma plataforma de stream de cursos tech e idiomas.</p>
 
 <h2>Objetivo</h2>
 
-<p>O objetivo é se desafiar e tentar criar um projeto do zero e sozinho, apenas com os conhecimentos adquirido no curso</p>
+<p>O objetivo é se desafiar e tentar criar um projeto do zero e sozinho, apenas com os conhecimentos adquirido na formação</p>
 
 <h2>Oque eu usei</2>
 
